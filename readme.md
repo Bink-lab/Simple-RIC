@@ -37,7 +37,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Portable Executable (.exe)
 
-For a more portable and user-friendly experience, you can use the `main.exe` file in the `dist` folder. This file is created using PyInstaller, which bundles the Python script along with its dependencies into a single executable file.
+For a more portable and user-friendly experience, you can use the `main.exe` file in the `dist` folder or get it from the [Releases](https://github.com/Bink-lab/Simple-RIC/releases) tab. This file is created using PyInstaller, which bundles the Python script along with its dependencies into a single executable file.
 
 **Note:** The `main.exe` file may appear larger in size compared to the `main.py` file. This is because PyInstaller includes all the necessary libraries and dependencies required to run the script, ensuring that the application can be run on any system without the need to install additional packages.
 
